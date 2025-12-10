@@ -1,1 +1,9 @@
 venv/
+mlflow.db
+mlruns/
+*.pyc
+__pycache__/
+.env
+metrics.txt
+confusion_matrix.png
+mlartifacts/
